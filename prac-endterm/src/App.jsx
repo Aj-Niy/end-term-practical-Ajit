@@ -16,9 +16,8 @@ function App() {
 
   return (
     <>
-      <h1>hello</h1>
       <div className="card">
-        <h2>Factorial</h2>
+        <h2>Factorial Calculator</h2>
 
         <input
           type="number"
